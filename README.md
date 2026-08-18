@@ -1,4 +1,4 @@
-# Zeno  
+# Zeno Smart Budget — User Manual 
   
 ![Zeno image](Images/Startup.png)  
 
