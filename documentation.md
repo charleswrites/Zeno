@@ -27,7 +27,7 @@ The homepage contains all navigation paths for using Zeno.
 A visual reference:
 
 <p align="center">
-  <img src="images/home.png" alt="Zeno home" width="550">
+  <img src="Images/home.png" alt="Zeno home" width="550">
 </p>
 
 ## Account creation
@@ -41,7 +41,7 @@ An account must be created in Zeno before you can create a budget. The account h
 
 Upon successful creation, the account screen appears.
 <p align="center">
-  <img src="images/account.png" alt="Zeno account" width="650">
+  <img src="Images/account.png" alt="Zeno account" width="650">
 </p>
 
 ## Budget Creation
@@ -57,7 +57,7 @@ Budgeting is the main feature of the Zeno app. It helps users track both large a
 
 Upon successful creation, the budget screen appears.
 <p align="center">
-  <img src="images/budget.png" alt="Zeno budget" width="650">
+  <img src="Images/budget.png" alt="Zeno budget" width="650">
 </p>
 
 ## Adding expense  
@@ -72,7 +72,7 @@ Budgeting helps allocate funds and track financial goals. Expenses in Zeno show 
 
 Upon successful creation, the expense screen appears.
 <p align="center">
-  <img src="images/Expense.png" alt="Zeno expense" width="650">
+  <img src="Images/Expense.png" alt="Zeno expense" width="650">
 </p>
 
 ## Adding Income
@@ -87,7 +87,7 @@ Expenses reduce the available balance, while income increases it. The budget cre
 
 Upon successful creation, the income update appears.
 <p align="center">
-  <img src="images/income.png" alt="Zeno income" width="650">
+  <img src="Images/income.png" alt="Zeno income" width="650">
 </p>
 
 ## Calendar
@@ -103,7 +103,7 @@ Once you're on the calendar:
 * Tap a transaction to view its full details.
 
 <p align="center">
-  <img src="images/calendar.png" alt="Zeno calendar" width="650">
+  <img src="Images/calendar.png" alt="Zeno calendar" width="650">
 </p>
 
 ## Report
@@ -115,5 +115,5 @@ The report shows the monthly, yearly, and budget overview. It helps users stay o
 3. Select one of the three overviews to view a detailed breakdown by month, day, or budget.
 
 <p align="center">
-  <img src="images/report.png" alt="Zeno report" width="650">
+  <img src="Images/report.png" alt="Zeno report" width="650">
 </p>
